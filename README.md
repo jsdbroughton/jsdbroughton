@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 I support AECO industry professionals to deliver high quality, efficient and joyous places, spaces and infrastructure.
 
 I help clients and management teams provide a sustainable business platform from which design can prosper by leveraging data, virtual design, technology and information analysis.
