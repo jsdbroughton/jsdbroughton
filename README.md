@@ -6,9 +6,9 @@ I advocate for collaborative work practices including methodologies for distribu
 
 - 👯 I’m looking to collaborate on [the fat middle](https://www.danieldavis.com/cads-boring-future/)
 - 💬 Ask me about doing BIM before it was cool.
-- 📫 How to reach me: twitter > jsdbroughton
+- 📫 How to reach me: twitter > @jsdbroughton
 
-Oh and I've been know to actually be an architect at times. Anyone need some ballet barres?
+Oh and I've been known to actually be an architect at times. Anyone need some ballet barres?
  
 <!--
 **jsdbroughton/jsdbroughton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
