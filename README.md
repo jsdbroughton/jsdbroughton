@@ -1,4 +1,4 @@
-I support AECO industry professionals to deliver high quality, efficient and joyous places, spaces and infrastructure.
+I'm Jonathon and I support AECO industry professionals to deliver high quality, efficient and joyous places, spaces and infrastructure.
 
 I help clients and management teams provide a sustainable business platform from which design can prosper by leveraging data, virtual design, technology and information analysis.
 
